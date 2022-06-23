@@ -30,4 +30,4 @@ The purpose of this analysis is to use different machine learning models to pred
 
 
 ## Summary
-After comparing the results of each model, it was clear that the Easy Ensemble Classification model was the best model for predicting high credit risk.
+After comparing the results of each model, it was clear that the Easy Ensemble Classification model was the best model for predicting high credit risk. I reached this conclusion as the Easy Ensemble Classification model had the highest results for precision and recall compared to other models.
